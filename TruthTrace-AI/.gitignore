@@ -1,0 +1,54 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# =====================
+# IDEs
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# Streamlit
+# =====================
+.streamlit/
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# ML / NLP caches
+# =====================
+.cache/
+huggingface/
+transformers_cache/
+spacy_data/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Data (important for your project)
+# keep synthetic data OUT of git if it grows
+# =====================
+data/*.json
+!data/synthetic_chains.json
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store

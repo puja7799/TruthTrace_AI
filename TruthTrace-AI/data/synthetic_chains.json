@@ -1,0 +1,37 @@
+[
+  {
+    "id": "M0",
+    "text": "A new water treatment chemical is being tested in the downtown reservoir today.",
+    "timestamp": "2026-04-15T08:00:00",
+    "sender_id": "User_100",
+    "parent_id": null
+  },
+  {
+    "id": "M1",
+    "text": "I heard they are putting a new chemical in the downtown water supply today.",
+    "timestamp": "2026-04-15T11:30:00",
+    "sender_id": "User_101",
+    "parent_id": "M0"
+  },
+  {
+    "id": "M2",
+    "text": "Watch out, they are dumping untested chemicals into the city water supply!",
+    "timestamp": "2026-04-15T14:45:00",
+    "sender_id": "User_102",
+    "parent_id": "M1"
+  },
+  {
+    "id": "M3",
+    "text": "URGENT: Toxic chemicals are being dumped in our water! DO NOT DRINK TAP WATER!!",
+    "timestamp": "2026-04-15T18:10:00",
+    "sender_id": "User_103",
+    "parent_id": "M2"
+  },
+  {
+    "id": "M4",
+    "text": "ALERT!!! Thousands poisoned by government bioweapon in the water supply! SHARE THIS BEFORE IT'S DELETED!!! 🚨🚨",
+    "timestamp": "2026-04-15T21:05:00",
+    "sender_id": "User_104",
+    "parent_id": "M3"
+  }
+]
